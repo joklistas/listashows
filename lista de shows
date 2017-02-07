@@ -247,7 +247,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=R-SYPx
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=vM_lHzofg_o
 
 #EXTINF:-1 tvg-logo="https://s14.postimg.org/k0k0xw32p/simone_e_simaria_live_2016.jpg" group-title="SHOW",Simone e Simaria - Perdeu 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FghDXzQMYjI 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FghDXzQMYjI
 
 #EXTINF:-1 tvg-logo="https://s14.postimg.org/k0k0xw32p/simone_e_simaria_live_2016.jpg" group-title="SHOW",Simone e Simaria - Só dá nós dois
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cxhHzmUSMlo 
