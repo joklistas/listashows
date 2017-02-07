@@ -259,7 +259,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nRHfEj
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9sNMGjwhLKw
 
 #EXTINF:-1 tvg-logo="https://s14.postimg.org/k0k0xw32p/simone_e_simaria_live_2016.jpg" group-title="SHOW",Simone e Simaria - Mais que uma saudade
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=f7JH1tXHq1M 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=f7JH1tXHq1M
 
 #EXTINF:-1 tvg-logo="https://s14.postimg.org/k0k0xw32p/simone_e_simaria_live_2016.jpg" group-title="SHOW",Simone e Simaria - Quero ser o seu amor
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=44oKQqZJTMs
