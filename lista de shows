@@ -235,7 +235,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=m2w90F
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UrT0zCmsN8c
 
 #EXTINF:-1 tvg-logo="https://s14.postimg.org/k0k0xw32p/simone_e_simaria_live_2016.jpg" group-title="SHOW",Simone e Simaria - Quando O Mel É Bom
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sqQaDp5ppeo
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JQclOn7P9Ew
 
 #EXTINF:-1 tvg-logo="https://s14.postimg.org/k0k0xw32p/simone_e_simaria_live_2016.jpg" group-title="SHOW",Simone e Simaria - Regime Fechado
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=b_cNrFAVMTo 
