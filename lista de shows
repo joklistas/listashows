@@ -238,7 +238,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UrT0zC
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sqQaDp5ppeo
 
 #EXTINF:-1 tvg-logo="https://s14.postimg.org/k0k0xw32p/simone_e_simaria_live_2016.jpg" group-title="SHOW",Simone e Simaria - Regime Fechado
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=b_cNrFAVMTo 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=b_cNrFAVMTo
 
 #EXTINF:-1 tvg-logo="https://s14.postimg.org/k0k0xw32p/simone_e_simaria_live_2016.jpg" group-title="SHOW",Simone e Simaria - Meu Violão E O Nosso Cachorro
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=R-SYPx9424I
