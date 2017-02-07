@@ -265,7 +265,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=f7JH1t
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=44oKQqZJTMs
 
 #EXTINF:-1 tvg-logo="https://s14.postimg.org/k0k0xw32p/simone_e_simaria_live_2016.jpg" group-title="SHOW",Simone e Simaria - Minha luz, meu Sol
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=teltAR98fig 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=teltAR98fig
 
 #EXTINF:-1 tvg-logo="https://s14.postimg.org/k0k0xw32p/simone_e_simaria_live_2016.jpg" group-title="SHOW",Simone e Simaria - Reparação 
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=yfxzRi99BgA
@@ -274,7 +274,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=yfxzRi
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4n5n4Qqpzmw
 
 #EXTINF:-1 tvg-logo="https://s14.postimg.org/k0k0xw32p/simone_e_simaria_live_2016.jpg" group-title="SHOW",Simone e Simaria - Pássaro Noturno
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hfQqK4aK2FU 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hfQqK4aK2FU
 
 #EXTINF:-1 tvg-logo="https://s14.postimg.org/k0k0xw32p/simone_e_simaria_live_2016.jpg" group-title="SHOW",Simone e Simaria - Duvido Você Não Tomar Uma
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-Bpvk6wIHus
