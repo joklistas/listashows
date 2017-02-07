@@ -279,9 +279,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hfQqK4
 #EXTINF:-1 tvg-logo="https://s14.postimg.org/k0k0xw32p/simone_e_simaria_live_2016.jpg" group-title="SHOW",Simone e Simaria - Duvido Você Não Tomar Uma
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-Bpvk6wIHus
 
-#EXTINF:-1 tvg-logo="https://s14.postimg.org/k0k0xw32p/simone_e_simaria_live_2016.jpg" group-title="SHOW",Simone e Simaria - Te Amo Chega da Raiva
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=z04jQ2So6BQ
-
 #EXTINF:-1 tvg-logo="https://s14.postimg.org/k0k0xw32p/simone_e_simaria_live_2016.jpg" group-title="SHOW",Simone e Simaria - Chora Boy
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=x91JdXehBss
 
